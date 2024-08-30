@@ -1,5 +1,5 @@
 **Diagnostic and Classification Web Application**
-<span style="font-size:0.5em;">Text goes here</span>
+
 Overview
 This project is a web application designed for diagnostic and classification tasks using 
 machine learning (ML) and deep learning (DL) approaches. The application allows 
